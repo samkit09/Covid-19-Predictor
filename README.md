@@ -17,4 +17,4 @@ I propose a machine-learning model using Decision tree algorithm that predicts a
 This code includes a graphical user interface that is simple and user friendly from which person can choose whether they are having the symptoms or have done a certain activity or not and the AI can predict if he/she is COVID positive or not. There may be some error in predicting after all it is artificial intelligence. It is recommended to consult a doctor but this can surely help in roughly estimating if you are covid positive or negative.
 
 ## Conclusion
-Hence AI model was successfully implemented to predict whether the patient is covid positive or negative. This can reduce the chance of further spread of virus and can reduce severity and save live by alerting the patient at an early stage.
+Hence AI model was successfully implemented to predict whether the patient is covid positive or negative. This can reduce the chance of further spread of virus and can reduce severity and save live by alerting the patient at an early stage. 
